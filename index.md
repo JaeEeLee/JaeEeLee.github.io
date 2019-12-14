@@ -1,4 +1,4 @@
-## Github로 블로그 만들기!! 
+## Lee Jae Ee to be Front-end developer
 
 이거 꽤 신기하다... 오오..ㅎㅎㅎ
 You can use the [editor on GitHub](https://github.com/JaeEeLee/JaeEeLee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
